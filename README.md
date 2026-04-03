@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋 I'm Snehal Jadhav.
 
-<!--
-**Sneh939/sneh939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer with 3.5 years of experience in building scalable backend systems.
 
-Here are some ideas to get you started:
+💻 Tech Stack
+- Java, Spring Boot
+- Microservices Architecture
+- REST APIs
+- SQL, MySQL
+- Docker & Kurbernet 
+- Kafka 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 What I Do
+* Design and develop microservices-based applications
+* Build scalable and high-performance backend systems
+* Work with databases and optimize queries
+
