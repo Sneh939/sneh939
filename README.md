@@ -15,3 +15,5 @@
 * Build scalable and high-performance backend systems
 * Work with databases and optimize queries
 
+📫 Contact: snehalj1696@gmail.com    
+🔗 LinkedIn: 
