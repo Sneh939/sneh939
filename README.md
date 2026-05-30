@@ -16,4 +16,4 @@
 * Work with databases and optimize queries
 
 📫 Contact: snehalj1696@gmail.com    
-🔗 LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/snehal-jadhav-a73493169
